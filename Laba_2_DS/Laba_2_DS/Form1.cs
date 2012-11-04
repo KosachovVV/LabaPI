@@ -172,7 +172,7 @@ namespace Laba_2_DS
             MessageBox.Show("Будут использованы условия заданные в варианте №9");
         }
 
-        //private void BInpfromfile_Click_1(object sender, EventArgs e)
+        //private void BInpfromfile_Click_1(object sender, EventArgs e) //Эта фигня не работает!!!
         //{
         //    try
         //    {
