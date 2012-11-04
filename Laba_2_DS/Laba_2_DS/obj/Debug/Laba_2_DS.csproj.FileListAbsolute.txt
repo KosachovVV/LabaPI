@@ -1,0 +1,34 @@
+d:\Work\Laba_2_DS\Laba_2_DS\obj\Debug\ResolveAssemblyReference.cache
+d:\Work\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Form1.resources
+d:\Work\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Properties.Resources.resources
+d:\Work\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.csproj.GenerateResource.Cache
+d:\Work\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.exe
+d:\Work\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.pdb
+d:\Work\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.exe
+d:\Work\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.pdb
+G:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.exe
+G:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.pdb
+G:\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.exe
+G:\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.pdb
+G:\Laba_2_DS\Laba_2_DS\obj\Debug\ResolveAssemblyReference.cache
+G:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Form1.resources
+G:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Properties.Resources.resources
+G:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.csproj.GenerateResource.Cache
+H:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.exe
+H:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.pdb
+H:\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.exe
+H:\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.pdb
+H:\Laba_2_DS\Laba_2_DS\obj\Debug\ResolveAssemblyReference.cache
+H:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Form1.resources
+H:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Properties.Resources.resources
+H:\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.csproj.GenerateResource.Cache
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.exe
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.pdb
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.exe
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\bin\Debug\Laba_2_DS.pdb
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\ResolveAssemblyReference.cache
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Form1.resources
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.Properties.Resources.resources
+G:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.csproj.GenerateResource.Cache
+F:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.exe
+F:\Лабораторки\Дискретные структуры\Лаба №2\Laba_2_DS\Laba_2_DS\obj\Debug\Laba_2_DS.pdb
